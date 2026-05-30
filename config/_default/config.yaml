@@ -3,8 +3,8 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: '020287.xyz' # Website name
-baseURL: 'https://www.020287.xyz/' # Website URL
+title: '1987 Constitution' # Website name
+baseURL: 'https://con87.github.io/' # Website URL
 
 ############################
 ## PAGE OPTIONS
