@@ -1,7 +1,7 @@
 ---
 title: ARTIKULO VIII ANG KAGAWARANG PANGHUKUMAN
 linktitle: ARTIKULO VIII ANG KAGAWARANG PANGHUKUMAN
-date: '2025-08-18T00:00:00+08:00'
+date: '2026-05-30T00:00:00+08:00'
 
 # Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
 weight: 9
