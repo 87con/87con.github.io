@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: '1987 Constitution' # Website name
-baseURL: 'https://con87.github.io/' # Website URL
+baseURL: 'https://87con.github.io/' # Website URL
 
 ############################
 ## PAGE OPTIONS
